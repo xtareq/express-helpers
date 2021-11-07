@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.envex
+.vscode
+yarn-error.log
+yarn.lock
+lib

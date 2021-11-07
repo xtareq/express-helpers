@@ -1,0 +1,26 @@
+{
+  "name": "ex-helpers",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+
+  "scripts": {
+    "build": "tsc -p .",
+    "build:watch": "tsc -w"
+  },
+  "repository": "https://github.com/xtareq/express-helpers",
+  "author": "Tareq Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtareq/express-helpers/issues"
+  },
+  "homepage": "https://github.com/xtareq/express-helpers#readme",
+  "dependencies": {
+    "@xtareq/validator": "^1.1.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
